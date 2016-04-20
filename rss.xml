@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Ballroom, Latin Dance Lessons and Wedding Dance]]></title>
         <description><![CDATA[Ballroom, Latin Dance Lessons and Wedding Dance]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/danceart/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Apr 2016 01:20:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 20 Apr 2016 01:21:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/danceart/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ Visit PartyPlannerUSA for all of your Party Planner]]></title>
+            <description><![CDATA[<article><h1> Visit PartyPlannerUSA for all of your Party Planner</h1><p>Useful links</p></article>]]></description>
+            <link>https://thegrid.ai/danceart/visit-partyplannerusa-for-all-of-your-party-planner/index.html</link>
+            <guid isPermaLink="false">17c182f4-447d-4da4-b84b-b671398caa79</guid>
+            <pubDate>Wed, 20 Apr 2016 01:20:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Dance Art Studio Pricelist]]></title>
             <description><![CDATA[<article><h1>Dance Art Studio Pricelist</h1><h2>Wedding Dance Choreography & Shows Prices </h2><p>CLICK HERE TO PRINT PRICE LIST</p></article>]]></description>
-            <link>undefineddance-art-studio-pricelist/index.html</link>
+            <link>https://thegrid.ai/danceart/dance-art-studio-pricelist/index.html</link>
             <guid isPermaLink="false">a35d7636-5a3f-4829-a56d-96ae6b57d8eb</guid>
             <pubDate>Wed, 20 Apr 2016 01:20:29 GMT</pubDate>
         </item>
